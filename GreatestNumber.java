@@ -1,7 +1,7 @@
 /*Branden Hart
 10/26/17 @5:30pm
 */
-package greatestnumber;
+package javaprojects;
 import java.util.Scanner;
 
 /**
